@@ -38,3 +38,10 @@ Here are some ideas to get you started:
   <li>Tools & Softwwares: Adobe CreateSuits - Photoshop, Illustrator, Premiere Pro</li>
   
 </ul>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchingkoala&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchingkoala&show_icons=true&theme=radical)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=marchingkoala&theme=dark)](https://git.io/streak-stats) -->
