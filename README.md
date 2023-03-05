@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <li>📚 Studied Fashion Design, then recently finiehd softwear engineering bootcamp at Fullstack Academy</li>
   <li>💻 I speak English, Korean, Javascript and TypeScript!</li>
   <li>⚡ I have eyes for design and will bring aesthetically pleasing and user-friendly products</li>
+  <li><a href="https://carmine-yijin-ro.onrender.com/">☁ Portfolio</a></li>
 </ul>
 
 <h3>SKILLS</h3>
