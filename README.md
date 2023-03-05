@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marchingkoala/marchingkoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,7 @@ Here are some ideas to get you started:
 
 # Hi! I'm Carmine! 👋
 
-<a href="https://www.linkedin.com/in/carminero0921/"><img src="https://camo.githubusercontent.com/00d70e449ca626b…4696e2e636f6d2f696e2f727562616c2d6167726177616c2f" alt="Linkedin Badge></a>
+<a href="https://www.linkedin.com/in/carminero0921">
+Click
+</a>
 
