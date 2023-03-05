@@ -13,11 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I'm Carmine! 👋
+# Hi! Nice to meet you! 👋
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carminero0921" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/carminero0921?trk=profile-badge">Carmine Yijin Ro</a></div>
-              
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carminero0921" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/carminero0921?trk=profile-badge">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:yri.carmine@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+<h3>ABOUT ME</h3>
+<ul>
+  <li>👋 Hi! I'm Carmine. I'm a fullstack engineer with 10 years of design background</li>
+  <li>📚 Studied Fashion Design, then recently finiehd softwear engineering bootcamp at Fullstack Academy</li>
+  <li>💻 I speak English, Korean, Javascript and TypeScript!</li>
+  <li>⚡ I have eyes for design and will bring aesthetically pleasing and user-friendly products</li>
+</ul>
 
+<h3>SKILLS</h3>
+<ul>
+  <li>Language: JavaScript | TypeScript | HTML | CSS</li>
+  <li>Framework & Library: React | Redux | Express</li>
+  <li>Database & Tools: PostgreSQL | Firebase | AWS Lambda | Git | Github</li>
+  <li>Tools & Softwwares: Adobe CreateSuits - Photoshop, Illustrator, Premiere Pro</li>
+  
+</ul>
