@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h3>ABOUT ME</h3>
 <ul>
   <li>👋 Hi! I'm Carmine. I'm a fullstack engineer with 10 years of design background</li>
-  <li>📚 Studied Fashion Design, then recently finished softwear engineering bootcamp at Fullstack Academy</li>
-  <li>💻 I speak English, Korean, Javascript and TypeScript!</li>
+  <li>📚 Studied Fashion Design, then recently finished software engineering bootcamp at Fullstack Academy</li>
+  <li>💻 I speak English, Korean, Javascript, TypeScript and Python!</li>
   <li>⚡ I have an eye for design and will bring aesthetically pleasing and user-friendly applications</li>
   <li><a href="https://carmine-yijin-ro.onrender.com/">☁ Portfolio</a></li>
 </ul>
